@@ -31,3 +31,5 @@ The judge will simulate a round-robin tournament with all the python files prese
 
 # Contact
 For questions or suggestions, please contact the author.
+
+ALL THE BEST
