@@ -27,5 +27,7 @@ cd Infithello
 ```bash
 python main.py
 ```
+The judge will simulate a round-robin tournament with all the python files present in /bots
+
 # Contact
 For questions or suggestions, please contact the author.
